@@ -1,5 +1,5 @@
 # animation1
-![cocabg](https://github.com/javadashtiani/cocacola/assets/134012615/b00d4466-81a3-460a-bede-d965ac33bc04)
+![animation-1](https://github.com/javadashtiani/animation1/assets/134012615/106d75f9-3667-4694-9db5-6c97b64c76b2)
 - 🔗 https://javadashtiani.github.io/animation1/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
